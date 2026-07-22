@@ -1,34 +1,31 @@
-# Jesus David Castro Valencia 
-# Desarrollador Junior 
-# Hi there, I'm Santiago 👋
+# ¡Hola! Soy Jesus Castro👋
 
-### 🚀 Software Developer | Constant Learner & Tech Enthusiast
+### 🚀 Desarrollador de Software | Aprendizaje Continuo & Apasionado por la Tecnología
 
-¡Hola! Soy un desarrollador de software en constante evolución y aprendizaje. Me enfoco en construir soluciones limpias, estructuradas y eficientes, aplicando las mejores prácticas de arquitectura de software y desarrollo web.
+¡Bienvenido a mi perfil! Soy un apasionado del desarrollo de software enfocado en construir bases sólidas, código limpio y soluciones bien estructuradas. Me interesa comprender a fondo la arquitectura detrás de cada herramienta para crear software escalable y de alta calidad.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tecnologías & Habilidades
 
-* **Backend Development:** Node.js, Express.js
-* **Databases:** Relational (MySQL) & NoSQL (MongoDB)
-* **Version Control & Tools:** Git, GitHub, VS Code, Postman
-* **Core Principles:** Layered Architecture (MVC, Services, Repositories), Clean Code, RESTful APIs
-
----
-
-### 🎯 About Me & Focus
-
-* 📚 **Focus:** Fortaleciendo fundamentos sólidos en arquitectura de software, patrones de diseño y flujo de trabajo colaborativo.
-* 💡 **Mindset:** Proactivo, organizado y con un enfoque muy claro en el trabajo en equipo y la resolución efectiva de problemas.
-* 🚀 **Current Goal:** Aplicar mis conocimientos en proyectos del mundo real e integrarme a equipos de desarrollo donde pueda aportar y crecer profesionalmente.
+* **Backend:** Node.js, Express.js
+* **Bases de Datos:** Relacionales (MySQL) y NoSQL (MongoDB)
+* **Control de Versiones y Herramientas:** Git, GitHub, VS Code, Postman, Discord, WPS Office
+* **Fundamentos & Arquitectura:** Arquitectura en capas (Rutas, Servicios, Controladores, Repositorios), APIs RESTful, Código Limpio
 
 ---
 
-### 📫 Connect with me
+### 🎯 Sobre mí & Enfoque Actual
 
-[![LinkedIn](...)
-[![Email](...)
+* 📚 **Enfoque:** Actualmente consolidando mis conocimientos en arquitectura de software, patrones de diseño y flujo de trabajo colaborativo.
+* 👥 **Liderazgo & Colaboración:** Cuento con experiencia coordinando equipos de trabajo, gestionando dinámicas grupales y promoviendo la comunicación asertiva.
+* 💡 **Mentalidad:** Proactivo, organizado y orientado a la resolución lógica de problemas.
+* 🚀 **Objetivo:** Poner en práctica mis habilidades en proyectos del mundo real e integrarme a equipos donde pueda aportar valor y seguir creciendo profesionalmente.
+
+---
+
+### 📫 Contacto
+
 
 ---
 > *"El código limpio siempre parece que fue escrito por alguien a quien le importa."*
