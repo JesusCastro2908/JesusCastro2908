@@ -53,3 +53,17 @@
 </div>
 
 ---
+
+
+</div>
+
+<hr />
+
+## 🐍 GitHub Snake Game (Mis Contribuciones)
+
+<div align="center">
+  <!-- Muestra la serpiente comiéndose tus contribuciones -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Eating Contributions" />
+</div>
+
+---
